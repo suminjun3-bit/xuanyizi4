@@ -1,0 +1,17 @@
+;我靠好难啊
+bgm:none -enter=100~300;
+intro:或许|你想要选择一个身份？|开启你的新生活吧…… -userForward -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+choose:京畿道科学高等学校一年级新生:京畿道高校支线.txt|待开发选项:待开发.txt;
+changeBg:none -next;
+unlockBgm:moonlightromance.mp3 -name=良夜;
+changeFigure:选择立绘文件 -left -next;
+setAnimation:blur -next -target=fig-left;
+: -v1.wav;
+; 模版修改演示
+WebGAL:普通对话框 -v1.wav -fontSize=large;
+miniAvatar:miniavatar.webp;
+带有小头像的对话框 -fontSize=default;
+setTextbox:hide;
+changeFigure:stand.webp;
+changeFigure:none -next;
+bgm:选择背景音乐;
