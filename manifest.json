@@ -1,0 +1,33 @@
+{
+  "name": "今天要选哪吧椅子？",
+  "short_name": "今天要选哪吧椅子？",
+  "start_url": ".",
+  "display": "fullscreen",
+  "description": "18岁还没谈恋爱就会自动分配六把椅子的故事。",
+  "dir": "auto",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "./icons/icon-192-maskable.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icons/icon-512-maskable.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
