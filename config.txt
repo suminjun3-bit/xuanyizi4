@@ -1,0 +1,8 @@
+Game_name:今天要选哪吧椅子？;
+Game_key:671fd5a09e986c8;
+Title_img:739b0cc206370c2895c91361ef22acbd.jpg;
+Title_bgm:romance.mp3;
+Textbox_theme:imss;
+Description:18岁还没谈恋爱就会自动分配六把椅子的故事。;
+Package_name:111‘’;
+Game_Logo:739b0cc206370c2895c91361ef22acbd.jpg;
